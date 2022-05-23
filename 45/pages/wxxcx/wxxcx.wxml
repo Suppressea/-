@@ -1,0 +1,240 @@
+<view class="zuida">排行榜</view>
+<view class="yiti">
+<view class="daohan">
+<view class="zihei">电视剧排行榜</view>
+<view class="zir">更多 ></view>
+</view>
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t1.jpg"></image>
+<view class="mz">1.且试天下</view>
+</view>
+</view>
+
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t2.jpg"></image>
+<view class="mz">2.欢迎光临</view>
+</view>
+</view>
+
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t3.jpg"></image>
+<view class="mz">3.女士的法则</view>
+</view>
+</view>
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t4.jpg"></image>
+<view class="mz">4.决斗</view>
+</view>
+</view>
+
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t5.jpg"></image>
+<view class="mz">5.新居之约</view>
+</view>
+</view>
+</view>
+
+<view class="yiti">
+<view class="daohan">
+<view class="zihei">电影排行榜</view>
+<view class="zir">更多 ></view>
+</view>
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t6.jpg"></image>
+<view class="mz">1.九叔归来</view>
+</view>
+</view>
+
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t7.jpg"></image>
+<view class="mz">2.青面修罗</view>
+</view>
+</view>
+
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t8.jpg"></image>
+<view class="mz">3.长津湖之水门桥</view>
+</view>
+</view>
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t9.jpg"></image>
+<view class="mz">4.大蛇王</view>
+</view>
+</view>
+
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t10.jpg"></image>
+<view class="mz">5.开棺</view>
+</view>
+</view>
+</view>
+<view class="yiti">
+<view class="daohan">
+<view class="zihei">综艺排行榜</view>
+<view class="zir">更多 ></view>
+</view>
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t11.jpg"></image>
+<view class="mz">1.奔跑吧</view>
+</view>
+</view>
+
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t12.jpg"></image>
+<view class="mz">2.新游记</view>
+</view>
+</view>
+
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t13.jpg"></image>
+<view class="mz">3.王牌对王牌</view>
+</view>
+</view>
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t14.jpg"></image>
+<view class="mz">4.灿烂的前行</view>
+</view>
+</view>
+
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t15.jpg"></image>
+<view class="mz">5.毛雪汪</view>
+</view>
+</view>
+
+</view>
+
+<view class="yiti">
+<view class="daohan">
+<view class="zihei">动漫排行榜</view>
+<view class="zir">更多 ></view>
+</view>
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t16.jpg"></image>
+<view class="mz">1.斗罗大陆</view>
+</view>
+</view>
+
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t17.jpg"></image>
+<view class="mz">2.完美世界</view>
+</view>
+</view>
+
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t18.jpg"></image>
+<view class="mz">3.神印王座</view>
+</view>
+</view>
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t19.jpg"></image>
+<view class="mz">4.灵剑尊</view>
+</view>
+</view>
+
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t20.jpg"></image>
+<view class="mz">5.武动乾坤</view>
+</view>
+</view>
+</view>
+
+<view class="yiti">
+<view class="daohan">
+<view class="zihei">少儿排行榜</view>
+<view class="zir">更多 ></view>
+</view>
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t26.jpg"></image>
+<view class="mz">1.超级宝贝JOJO</view>
+</view>
+</view>
+
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t27.jpg"></image>
+<view class="mz">2.汪汪队立大功</view>
+</view>
+</view>
+
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t28.jpg"></image>
+<view class="mz">3.枫枫玩具</view>
+</view>
+</view>
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t29.jpg"></image>
+<view class="mz">4.宝贝赳赳</view>
+</view>
+</view>
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t30.jpg"></image>
+<view class="mz">5.宝宝巴士儿歌合集</view>
+</view>
+</view>
+</view>
+
+<view class="yiti">
+<view class="daohan">
+<view class="zihei">纪录排行榜</view>
+<view class="zir">更多 ></view>
+</view>
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t21.jpg"></image>
+<view class="mz">1.鱼鹰-海上猛禽</view>
+</view>
+</view>
+
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t22.jpg"></image>
+<view class="mz">2.了不起的妈妈</view>
+</view>
+</view>
+
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t23.jpg"></image>
+<view class="mz">3.又见三星堆</view>
+</view>
+</view>
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t24.jpg"></image>
+<view class="mz">4.国宝里的新疆</view>
+</view>
+</view>
+
+<view class="pahang">
+<view class="tpbox">
+<image src="/pages/image/2t25.jpg"></image>
+<view class="mz">5.坦克科技</view>
+</view>
+</view>
+</view>
+

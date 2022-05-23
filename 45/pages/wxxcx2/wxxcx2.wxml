@@ -1,0 +1,38 @@
+<!--pages/wxxcx2/wxxcx2.wxml-->
+<view class="bp">
+<image class="header" src="/pages/image/3p1.jpg"></image>
+<view class="pc">
+<image src="/pages/image/微信图片_20220522091617.png"></image>
+</view>
+<view class="wenzi">这个人很懒，什么都没有留下</view>
+</view>
+<view class="xuanxiang">
+<view class="pc1"><image src="/pages/image/3t3.jpg"></image></view>
+<text class="jieshi">消息通知</text>
+<text class="rigth">></text>
+</view>
+<view class="xuanxiang">
+<view class="pc1"><image src="/pages/image/3t4.jpg"></image></view>
+<text class="jieshi">最近浏览</text>
+<text class="rigth">></text>
+</view>
+<view class="xuanxiang">
+<view class="pc1"><image src="/pages/image/3t5.jpg"></image></view>
+<text class="jieshi">我的上传</text>
+<text class="rigth">></text>
+</view>
+<view class="xuanxiang">
+<view class="pc1"><image src="/pages/image/3t6.jpg"></image></view>
+<text class="jieshi">我的分享</text>
+<text class="rigth">></text>
+</view>
+<view class="xuanxiang">
+<view class="pc1"><image src="/pages/image/3t7.jpg"></image></view>
+<text class="jieshi">缓存管理</text>
+<text class="rigth">></text>
+</view>
+<view class="xuanxiang">
+<view class="pc1"><image src="/pages/image/3t8.jpg"></image></view>
+<text class="jieshi">设置</text>
+<text class="rigth">></text>
+</view>

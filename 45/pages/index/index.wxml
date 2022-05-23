@@ -1,0 +1,41 @@
+<view>
+<swiper class="swiper" indicator-dots  interval="4000" autoplay
+ indicator-color="#ebeced"  indicator-active-color="#ffffff">
+    <swiper-item wx:for="{{index}}">
+       <image src="/pages/image/{{item}}"></image>
+    </swiper-item>
+</swiper>
+</view>
+<view class="zi">
+重磅热播
+</view>
+<view class="tuijian">  
+<view class=""><image src="/pages/image/t1.jpg"></image></view>
+<view class="zthei">BOSS爱上我·独播</view>
+<view class="zithui">腹黑助理升级真男友</view>
+</view>
+<view class="tuijian">  
+<view class=""><image src="/pages/image/t2.jpg"></image></view>
+<view class="zthei">神君家的小白狐</view>
+<view class="zithui">天真白狐黑化开启复仇</view>
+</view>
+<view class="tuijian">  
+<view class=""><image src="/pages/image/t3.jpg"></image></view>
+<view class="zthei">今天也要努力当只猫</view>
+<view class="zithui">影帝居然是吸猫狂魔</view>
+</view>
+<view class="tuijian">  
+<view class=""><image src="/pages/image/t4.jpg"></image></view>
+<view class="zthei">豪门弟弟惹人怜</view>
+<view class="zithui">真香！奶狗弟弟变男友？</view>
+</view>
+<view class="tuijian">  
+<view class=""><image src="/pages/image/t5.jpg"></image></view>
+<view class="zthei">摧毁</view>
+<view class="zithui">豪门公子终成坚定革命者</view>
+</view>
+<view class="tuijian">  
+<view class=""><image src="/pages/image/t6.jpg"></image></view>
+<view class="zthei">海之谣</view>
+<view class="zithui">戏班千金为爱赴汤蹈火</view>
+</view>

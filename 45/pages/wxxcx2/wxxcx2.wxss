@@ -1,0 +1,64 @@
+/* pages/wxxcx2/wxxcx2.wxss */
+.header{
+    width: 100%;
+    height: 170px;
+    z-index: -1;
+    background-size: 100% 100%;
+}
+.bp{
+    width: 100%;
+    height: 170px;
+    position: relative;
+    margin-bottom: 20px;
+}
+.pc{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    position: absolute;
+    left: 133px;
+    top: 25px;
+}
+.pc image{
+    width: 100px;
+    height: 100px;
+}
+.wenzi{
+    color: gray;
+    font-size: 10px;
+    width: 130px;
+    display: inline;
+    position: absolute;
+    left: 120px;
+    bottom: 35px;
+}
+.xuanxiang{
+    margin-top: 10px;
+    width: 90%;
+    margin: auto;
+    height: 40px;
+    border: 1px solid rgb(224, 224, 224);
+    margin-bottom: 5px;
+
+}
+.pc1{
+    width: 40px;
+    height: 40px;
+    float: left;
+}
+.pc1 image{
+    width: 40px;
+    height: 40px;
+}
+.jieshi{
+    font-size: 15px;
+    line-height: 40px;
+    margin-left: 10px;
+}
+.rigth{
+    float: right;
+    margin-right: 10px;
+    font-size: 15px;
+    color: gray;
+    line-height: 40px;
+}

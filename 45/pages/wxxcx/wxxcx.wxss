@@ -1,0 +1,57 @@
+.zuida{
+    font-family: '微软雅黑';
+    font-weight: bolder;
+    width: 75px;
+    height: 25px;
+    line-height: 25px;
+    font-size: 25px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+}
+.yiti{
+    width: 45%;
+    background-color:#eeeeee; 
+    float: left;
+   margin-top: px;
+   margin-left: 13px;
+   margin-bottom: 15px;
+}
+.daohan{
+    width: 100%;
+    height: 20px;
+}
+.zihei{
+    font-size: 12px;
+    float: left;
+    margin-left: 5px;
+    padding-top: 5px;
+    font-weight: bold;
+}
+.zir{
+    padding-top: 9px;
+    font-size: 7px;
+    float: right;
+    margin-right: 10px;
+}
+.pahang{
+    width: 100%;
+     margin-top: 10px;
+
+}
+.tpbox{
+    width: 100%;
+    height:45px ;
+    position: relative;
+}
+.tpbox image{
+    width: 80px;
+    height:45px ;
+    border-radius: 10px;
+}
+.mz{
+    font-size: 9px;
+    padding-left: 10px;
+    display: inline;
+    position: absolute;
+    top: 0px;
+}
